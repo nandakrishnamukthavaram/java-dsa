@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Practice leetcode problems and some self practice code
+a.*
+
 # Log file
 *.log
 
